@@ -1,4 +1,5 @@
------------------CRUDPHP_Simple------------------------------
+-----------------------CRUDPHP_Sin_Framework--------------------------------------
+-----------------------------------------------------------------------------------------
 
 Es una aplicación CRUD realizada en PHP sin utilizar ningún framework.
 
@@ -16,4 +17,4 @@ Posteriormente deberemos mover la carpeta de la aplicacion a nuestro directorio 
 
 Posteriormente colocar en la barra de derecciones del navegador:
 
-localhost/CRUDPHP_Simple
+localhost/nombreProyecto
